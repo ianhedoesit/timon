@@ -1,4 +1,6 @@
-# timon
+# Timon
+
+[![Build Status](https://travis-ci.org/ianhedoesit/timon.svg?branch=master)](https://travis-ci.org/ianhedoesit/timon)
 
 Timon is a central script repository for [Sarabi][]. At the time of making
 this, Sarabi primarily is used to keep packages such as includes and plugins

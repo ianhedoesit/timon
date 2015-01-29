@@ -1,7 +1,7 @@
-(ns timon.handler-test
+(ns timon.core.handler-test
   (:require [clojure.test :refer :all]
             [ring.mock.request :as mock]
-            [timon.handler :refer :all]))
+            [timon.core.handler :refer :all]))
 
 (deftest test-app
   (testing "main route"
